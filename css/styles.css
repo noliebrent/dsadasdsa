@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: black;
+}
+h4 {
+    font-size: 36px;
+    color: white;
+}
+#particles-js {
+    color: blue;
+    height: 100%;
+}
